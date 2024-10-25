@@ -2,6 +2,14 @@
 # Documentación del proyecto
 ## Unidad 2
 
-Estudiante:  
-ID:  
+Estudiante:  Juan Pablo Castrillón M
+ID: 000554106 
 ---
+# Autoevaluación
+
+| Criterio                    | Puntaje Asignado |
+|-----------------------------|------------------|
+| Asistencia y Participación  | 4                |
+| Análisis                    | 3.5              |
+| Algoritmo                   | 3                |
+| Organización y Presentación | 3.5              |
